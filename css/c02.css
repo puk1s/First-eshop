@@ -1,0 +1,51 @@
+div {
+    border-radius: 5px;
+     }
+
+img {
+    margin-left: 5px;
+}
+
+#header {
+   height: 50px;
+   background-color: #415849;
+   margin-bottom: 10px;
+   
+}
+
+#left {
+    height: 400px;
+    width: 150px;
+    background-color: #22773e;
+    margin-bottom: 10px;
+    float: left;
+    position: absolute;
+    position: fixed;
+
+}
+
+#right {
+    height: 2000px;
+    width: 950px;
+    background-color: #009933;
+    float: right;
+       margin-bottom: 10px;
+       
+}
+
+#footer {
+      height: 50px;
+    background-color: #415849;
+    clear: both;
+    margin-top: 20px;
+
+
+
+
+
+}
+
+#greeting {
+    text-align: center;
+    margin-top: 10px;
+}
